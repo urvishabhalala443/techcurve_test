@@ -1,0 +1,15 @@
+export default {
+  gradientColorOne: '#FFA872',
+  gradientColorTwo: '#FF8693',
+  gradientColorThree: '#FA65C7',
+  gradientColorFour: '#D051F7',
+  gradientColorFive: '#8A46FF',
+  gradientColorSix: '#4558D8',
+  primaryWhite: '#FFFFFF',
+  primaryBlack: '#000000',
+  activeLyrics: '#FF6F7E',
+  inActiveLyrics: '#333',
+  sliderColor: '#F3E5F5',
+  blurGradientOne: '#333',
+  blurGradientTwo: 'rgba(255, 255, 255, 0.00)',
+};
